@@ -193,8 +193,8 @@ cat > index.html << 'EOF'
 <body>
     <div class="container">
         <header>
-            <h1><span class="plotly-logo">Plotly</span> Chart Gallery</h1>
-            <p class="subtitle">Charts previously hosted on Plotly Chart Studio</p>
+            <h1><span class="plotly-logo">Adtran</span> Chart Gallery</h1>
+            <p class="subtitle">Daily Regression Stats Database</p>
         </header>
 
         <div class="chart-grid">
